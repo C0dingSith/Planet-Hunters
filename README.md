@@ -1,2 +1,2 @@
 # Planet Hunters
- Machine Learning Porject on identifying potential habitable planets
+ Machine Learning Project on identifying potential habitable planets
